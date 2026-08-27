@@ -2,7 +2,7 @@
 
 YouTube transcripts for Node.js and TypeScript — timestamped segments, plain text, SRT, and VTT from videos, Shorts, channels, playlists, and search results.
 
-This is a thin, zero-dependency client for the [Fetchworks YouTube Transcript Scraper](https://apify.com/fetchworks/youtube-transcript-scraper) on Apify. The extraction runs on Apify's infrastructure; you bring your own Apify token. Pricing is $5 per 1,000 transcripts — only delivered transcripts are billed. Failed videos (no captions, blocked, unavailable) cost nothing.
+This is a thin, zero-dependency client for the [Fetchworks YouTube Transcript Scraper](https://apify.com/fetchworks/youtube-transcript-scraper) on Apify. The extraction runs on Apify's infrastructure; you bring your own Apify token. Pricing is $2 per 1,000 transcripts — only delivered transcripts are billed. Failed videos (no captions, blocked, unavailable) cost nothing.
 
 ## Install
 
