@@ -1,4 +1,4 @@
-# @fetchworks/youtube-transcript
+# fetchworks-youtube-transcript
 
 YouTube transcripts for Node.js and TypeScript — timestamped segments, plain text, SRT, and VTT from videos, Shorts, channels, playlists, and search results.
 
@@ -7,13 +7,13 @@ This is a thin, zero-dependency client for the [Fetchworks YouTube Transcript Sc
 ## Install
 
 ```bash
-npm install @fetchworks/youtube-transcript
+npm install fetchworks-youtube-transcript
 ```
 
 ## Quickstart
 
 ```ts
-import { FetchworksClient } from "@fetchworks/youtube-transcript";
+import { FetchworksClient } from "fetchworks-youtube-transcript";
 
 const client = new FetchworksClient({ apifyToken: process.env.APIFY_TOKEN! });
 const item = await client.getTranscript("https://www.youtube.com/watch?v=jNQXAC9IVRw");

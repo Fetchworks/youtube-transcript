@@ -1,5 +1,5 @@
 {
-  "name": "@fetchworks/youtube-transcript",
+  "name": "fetchworks-youtube-transcript",
   "version": "0.1.0",
   "description": "YouTube transcripts for Node.js and TypeScript — timestamped segments, plain text, SRT, VTT from videos, channels, playlists, and search. Thin client for the Fetchworks YouTube Transcript Scraper on Apify.",
   "keywords": [
