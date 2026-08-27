@@ -17,7 +17,7 @@
   "homepage": "https://apify.com/fetchworks/youtube-transcript-scraper",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fetchworks/youtube-transcript-client-js.git"
+    "url": "git+https://github.com/fetchworks/youtube-transcript.git"
   },
   "type": "module",
   "main": "./dist/index.cjs",
