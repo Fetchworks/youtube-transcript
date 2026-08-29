@@ -1,7 +1,7 @@
 {
   "name": "fetchworks-youtube-transcript",
   "version": "0.1.0",
-  "description": "YouTube transcripts for Node.js and TypeScript — timestamped segments, plain text, SRT, VTT from videos, channels, playlists, and search. Thin client for the Fetchworks YouTube Transcript Scraper on Apify.",
+  "description": "YouTube transcripts for Node.js and TypeScript \u2014 timestamped segments, plain text, SRT, VTT from videos, channels, playlists, and search. Thin client for the Fetchworks YouTube Transcript Scraper on Apify.",
   "keywords": [
     "youtube",
     "transcript",
@@ -17,7 +17,7 @@
   "homepage": "https://apify.com/fetchworks/youtube-transcript-scraper",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fetchworks/youtube-transcript.git"
+    "url": "git+https://github.com/Fetchworks/youtube-transcript.git"
   },
   "type": "module",
   "main": "./dist/index.cjs",
